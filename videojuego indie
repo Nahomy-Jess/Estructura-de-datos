@@ -1,5 +1,1 @@
 #inlude <studio.h> 
-imt main () { 
-printf("Hola");
-return 0;
-}
